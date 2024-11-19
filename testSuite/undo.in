@@ -1,0 +1,11 @@
+game human human
+move e2 e4
+move h7 h6
+move g1 f3
+move c7 c5
+undo
+undo
+undo
+undo 
+move e2 e4
+resign

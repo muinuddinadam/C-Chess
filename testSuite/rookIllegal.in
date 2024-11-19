@@ -1,0 +1,39 @@
+setup
+- a2
+- b2
+- c2
+- d2
+- e2
+- f2
+- g2
+- h2
+done
+game human human
+move a1 b2
+move a1 c3
+move a1 d4
+move a1 e5
+move a1 f6
+move a1 g7
+move a1 h8
+move a1 b1
+move a1 c1
+move a1 d1
+move a1 e1
+move a1 f1
+move a1 g1
+move a1 h1
+move h1 g2
+move h1 f3
+move h1 e4
+move h1 d5
+move h1 c6
+move h1 b7
+move h1 a8
+move h1 a1
+move h1 b1
+move h1 c1
+move h1 d1
+move h1 e1
+move h1 f1
+move h1 g1

@@ -1,0 +1,6 @@
+setup
+= black
+done
+game human human
+move e7 e5
+resign

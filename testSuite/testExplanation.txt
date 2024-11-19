@@ -1,0 +1,32 @@
+simpleSetup.in // tests setup's ability to add and remove the corners
+addSetup.in // checks if all different types of tiles can be added
+removeSetup.in // checks if all different types of tiles can be removed
+kingSetup.in // checks if a board wont be accepts with the wrong #of kings
+colourSetup.in // checks that changing colour works
+pawnSetup.in // checks if a board won't accepts with pawns in the end rows
+
+pawnTake.in // checks that pawns can take pieces
+rookTake.in // checks that rooks can take pieces
+bishopTake.in // checks that bishops can take pieces
+knightTake.in // checks that knights can take pieces
+queenTake.in // checks that queens can take pieces
+kingTake.in // checks that king can take pieces
+
+enPassant.in // checks if en passant works
+nonPassant.in // ensures that you can't make en passant against the rules
+lCastle.in //ensures that the long castling works
+rCastle.in //ensures that the short castling works
+badCastle.in // ensures you can't castle with your own pieces in the way
+oppCastle.in // ensures you can't castle when an opp piece is blocking
+
+vsComputer.in // plays a short games against a computer(subject to randomness)
+
+undo.in // tests if undo works
+undoPast.in // tests if undo works if it is called too many times
+
+badCommand.in // checks what happens if we fail to call setup or game at the start
+badMove.in // checks what happends if we input a bad command in startGame()
+badSetup.in // checks what happens if we give a bad command in setupGame()
+
+
+

@@ -1,0 +1,12 @@
+setup
++ p e2
++ r b5
++ P e7
++ R b4
+done
+game human human
+move f1 e2
+move f8 e7
+move e2 b5
+move e7 b4
+resign

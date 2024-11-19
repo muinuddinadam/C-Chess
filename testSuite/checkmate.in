@@ -1,0 +1,11 @@
+setup
++ R d1
++ R f1
++ R g1
+- e2
++ q d5
++ R c1
+= black
+done
+game human human
+move d5 e5

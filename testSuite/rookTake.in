@@ -1,0 +1,25 @@
+setup
++ p a2
+done
+game human human
+move a1 a2
+move h7 h6
+move a2 a7
+move h6 h5
+move a7 a8
+move h5 h4
+move a8 b8
+move h4 h3
+move b8 c8
+resign
+setup
++ r a1
+done
+game human human
+move h2 h3
+move a1 b1
+move h3 h4
+move b1 c1
+move h4 h5
+move c1 c2
+resign

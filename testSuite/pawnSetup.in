@@ -1,0 +1,15 @@
+setup
++ p a8
+done
++ P a8
+done
+- a8
++ p a1
+done
++ P a1
+done
+- a1
++ p f1
+done
++ P f1
+done

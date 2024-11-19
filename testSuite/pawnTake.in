@@ -1,0 +1,15 @@
+setup
++ P d4
++ r e5
+done
+game human human
+move d4 e5
+resign
+setup
++ p e5
++ R d4
+done
+game human human
+move h2 h3
+move e5 d4
+resign

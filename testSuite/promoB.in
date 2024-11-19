@@ -1,0 +1,9 @@
+setup
++ P a7
+- a8
+done
+game human human
+move a7 a8 B
+move h7 h6
+move a8 b7
+resign

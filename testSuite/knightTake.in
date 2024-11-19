@@ -1,0 +1,8 @@
+setup
++ r c3
++ Q h6
+done
+game human human
+move b1 c3
+move g8 h6
+resign

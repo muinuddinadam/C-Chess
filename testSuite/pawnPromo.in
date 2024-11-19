@@ -1,0 +1,11 @@
+setup
+- h8
++ P h7
+= white
+done
+game human computer2
+move h7 h8 Q
+move
+move h8 g8
+move
+resign

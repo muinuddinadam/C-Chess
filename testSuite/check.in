@@ -1,0 +1,16 @@
+setup
+= black
+- e2
++ q d5
+done
+game human human
+move d5 e5
+move e1 e2
+move f1 f3
+move d2 d4
+move g1 h3
+move d1 e2
+move e5 e2
+move e1 e2
+move e7 e6
+resign

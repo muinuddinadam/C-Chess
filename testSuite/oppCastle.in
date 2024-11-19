@@ -1,0 +1,19 @@
+setup
+- d1
+- c1
+- b1
+- d2
++ q d6
+done
+game human human
+move e1 c1
+resign
+setup 
+- f1
+- g1
+- f2
++ b c5
+done
+game human human
+move e1 g1
+resign

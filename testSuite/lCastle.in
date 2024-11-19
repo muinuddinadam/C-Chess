@@ -1,0 +1,12 @@
+setup 
+- d8
+- c8
+- b8
+- d1
+- c1
+- b1
+done
+game human human
+move e1 c1
+move e8 c8
+resign
